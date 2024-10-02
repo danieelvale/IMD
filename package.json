@@ -1,0 +1,12 @@
+{
+  "name": "imd2709",
+  "version": "1.0.0",
+  "description": "Servidor Web (Atividade IMD)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel do Vale Abreu Teixeira",
+  "license": "ISC"
+}
